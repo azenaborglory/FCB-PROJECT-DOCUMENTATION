@@ -10,3 +10,4 @@ The primary sources of data used for this project is data sale.cv which is an op
 Ms Excel For Data Cleaning [Download Here](https://microsoft.com)
 Microsoft Power BI [Download Here](https:microsoft.com)
 Python [Download Here](https://microsoft.com)
+SQL
