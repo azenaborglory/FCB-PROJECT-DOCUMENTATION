@@ -17,8 +17,12 @@ The primary sources of data used for this project is data sale.cv which is an op
 
 ```
 Google Query Sheet
-
 SELECT*FROM TABLE 1
 WHERE CONDITION=MET
 
 ```
+![](glory.jpg)
+
+
+
+
